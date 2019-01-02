@@ -1,2 +1,2 @@
 # tower
-Facilities that we can in the new towers
+Facilities that we have in the new towers
