@@ -4,3 +4,8 @@ parking
 simon - 29
 miriam - 28
 edwin - 27
+---------------
+Stores list
+Human resource - 4
+ICT dept - 7
+procurement - 10
