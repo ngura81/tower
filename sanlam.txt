@@ -9,3 +9,4 @@ Stores list
 Human resource - 4
 ICT dept - 7
 procurement - 10
+marketing dept
